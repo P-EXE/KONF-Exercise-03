@@ -1,1 +1,1 @@
-# KONF-Exercise-03
+This will surely not cause any conflicts
