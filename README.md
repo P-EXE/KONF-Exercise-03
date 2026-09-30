@@ -1,1 +1,1 @@
-# KONF-Exercise-03
+Please, no conflicts!
